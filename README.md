@@ -2,6 +2,10 @@
 
 A self-contained, browser-based prototype for visualizing a parametric chicken-breast digital twin, spatial material-property fields, mass-based cutting-path planning, finger deformation, live replanning, and a visual knife pass.
 
+<p align="center">
+  <img src="assets/UI.gif" alt="FilletTwin UI showing a planned knife cut" width="720">
+</p>
+
 ## What is implemented
 
 - Procedurally generated 3D chicken fillet with bounded “common-sense” shape randomization
